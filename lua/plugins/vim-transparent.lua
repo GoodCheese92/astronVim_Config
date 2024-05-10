@@ -1,3 +1,4 @@
 return {
-  "tribela/vim-transparent"
+  "tribela/vim-transparent",
+  "mawkler/modicator.nvim",
 }
