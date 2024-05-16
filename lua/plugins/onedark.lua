@@ -6,7 +6,8 @@ return {
     transparent = true,
     highlights = {
       ["@comment"] = { fg = "#A6A6A6" },
-      --- testjnsetjb
+      ["@punctuation.delimiter"] = { fg = "#C0C0C0" },
+      ["@punctuation.bracket"] = { fg = "#C0C0C0" },
     },
   },
 }
