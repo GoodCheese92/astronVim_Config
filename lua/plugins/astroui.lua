@@ -10,17 +10,17 @@ return {
   opts = {
     -- change colorscheme
     -- colorscheme = "astrodark",
-    colorscheme = "onedark",
+    colorscheme = "cyberdream",
     -- AstroUI allows you to easily modify highlight groups easily for any and all colorschemes
     highlights = {
       init = { -- this table overrides highlights in all themes
         lineNr = { fg = "#A6A6A6" },
         cursorLineNr = { fg = "#FFFFFF" },
-        visual = { bg = "#FFFFFF" },
+        visual = { bg = "#FFFFD2", fg = "#008000" },
         -- normal = { bg = "none", ctermbg = "none" },
         -- neoTreeNormal = { bg = "none" },
         -- neoTreeNormalNc = { bg = "none", ctermbg = "none" },
-        comment = { fg = "#A6A6A6" },
+        -- comment = { fg = "#A6A6A6" },
       },
       astrotheme = { -- a table of overrides/changes when applying the astrotheme theme
       },
