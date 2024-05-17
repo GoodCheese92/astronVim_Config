@@ -8,6 +8,7 @@ return {
       highlights = {
         Comment = { fg = "#A6A6A6", italic = true },
         -- sdoishdsdih
+        Operator = { fg = "#E8D9FF" },
       },
     },
   },
