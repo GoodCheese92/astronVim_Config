@@ -8,7 +8,7 @@ return {
         n = {
           -- ["<Leader>ri"] = { ":TSToolsOrganizeImports<cr>", desc = "TStools Organize Imports" },
           -- ["<Leader>ru"] = { ":TSToolsRemoveUnusedImports<cr>", desc = "TStools Remove Unused Imports" },
-          ["<Leader>lt"] = { ":lua vim.diagnostic.open_float()<cr>", desc = "diagnostic message hover" },
+          ["<Leader>le"] = { ":lua vim.diagnostic.open_float()<cr>", desc = "diagnostic message hover" },
         },
       },
     },
