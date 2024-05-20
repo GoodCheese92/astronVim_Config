@@ -1,4 +1,4 @@
 return {
-  "mawkler/modicator.nvim",
+  -- "mawkler/modicator.nvim",
   -- "fedepujol/bracketpair.nvim",
 }

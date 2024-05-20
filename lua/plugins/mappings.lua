@@ -6,8 +6,8 @@ return {
       mappings = {
         -- first key is the mode
         n = {
-          ["<Leader>ri"] = { ":TSToolsOrganizeImports<cr>", desc = "TStools Organize Imports" },
-          ["<Leader>ru"] = { ":TSToolsRemoveUnusedImports<cr>", desc = "TStools Remove Unused Imports" },
+          -- ["<Leader>ri"] = { ":TSToolsOrganizeImports<cr>", desc = "TStools Organize Imports" },
+          -- ["<Leader>ru"] = { ":TSToolsRemoveUnusedImports<cr>", desc = "TStools Remove Unused Imports" },
         },
       },
     },
