@@ -11,6 +11,8 @@ return {
         -- sdoishdsdih
         Operator = { fg = "#B5B2FF" },
         TelescopeNormal = { bg = "#FFFFFF" },
+        Constant = { fg = "#FF7171" },
+        -- Identifier = { fg = "#4374D9" },
       },
     },
   },
