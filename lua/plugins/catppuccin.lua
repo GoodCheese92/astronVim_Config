@@ -7,7 +7,7 @@ return {
     styles = {
       comments = { "italic" },
     },
-    custom_highlights = {
+    color_verrides = {
       Comment = { fg = "#A6A6A6" },
     },
   },
