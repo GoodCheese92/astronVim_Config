@@ -8,4 +8,5 @@ return {
   -- import/override with your plugins folder
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.recipes.telescope-nvchad-theme" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
 }
