@@ -8,7 +8,7 @@ return {
       comments = { "italic" },
     },
     color_verrides = {
-      Comment = { fg = "#A6A6A6" },
+      Comment = { fg = "#B8B8B8" },
     },
   },
 }
