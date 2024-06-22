@@ -13,7 +13,6 @@ return {
         "cssls",
         "html",
         "gradle_ls",
-        "groovyls",
         "lua_ls",
         "intelephense",
         "jsonls",
